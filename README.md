@@ -69,7 +69,7 @@ Use the following commands to clone the project and instal its dependencies:
 
 ```bash
 # MacOS / Linux / WSL
-git clone https://github.com/harvard-lil/olaw.git
+git clone https://github.com/Ramshankar07/law-base.git
 cd olaw
 poetry install
 ```
